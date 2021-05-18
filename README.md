@@ -1,5 +1,5 @@
 # Calculadora IMC 📱
 
-Olá ! Esse é meu primeiro projeto html, css e Javascript, porém agora que estou colocando ele aqui no github, espero que ele venha ajudar.
+Olá ! Esse foi um dos meus primeiros projetos que coloco no GITHUB, é só uma simples calculadora de IMC que uso o HTML, CSS e JAVASCRIPT.
 
 Obrigado!!!
